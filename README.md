@@ -3,7 +3,7 @@
   <br>
   <a href=""><img src="https://raw.githubusercontent.com/kumarcodes3004/Hiring-site/main/pic/s1.png" alt="Markdownify" height="200" width="200"></a>
   <br>
-  Quiz Wizards
+  Hiring-Site
   <br>
 </h1>
 
