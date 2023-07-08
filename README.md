@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href=""><img src="https://raw.githubusercontent.com/kumarcodes3004/Hiring-site/main/pic/s1.png" alt="Markdownify" height="200" width="200"></a>
+  
   <br>
   Hiring-Site
   <br>
@@ -15,8 +15,19 @@
 
 ## Screenshots
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/pandeysushmit/quiz_app/main/screenshots/sample.jpg" alt="project" height="600" width="900" >
+
+  ![s1](https://github.com/kumarcodes3004/Hiring-site/assets/90494688/0882ebad-5ae2-4b40-b046-a2a48df905f2)
+![s2](https://github.com/kumarcodes3004/Hiring-site/assets/90494688/c0ad032a-54a6-4d48-8a3f-84db1e1e9567)
+
+![s3](https://github.com/kumarcodes3004/Hiring-site/assets/90494688/44a1d4f2-c558-4eb6-a679-e01a5fa2325c)
+![s4](https://github.com/kumarcodes3004/Hiring-site/assets/90494688/c337aa03-a11f-4002-91ac-1db9988e6012)
+
+
+![s5](https://github.com/kumarcodes3004/Hiring-site/assets/90494688/bbfef680-c052-4c26-94e3-6131454e0656)
+
+![s6](https://github.com/kumarcodes3004/Hiring-site/assets/90494688/141033b1-8713-445e-ac01-553e532a1a17)
+![s7](https://github.com/kumarcodes3004/Hiring-site/assets/90494688/14f713c6-8da9-471e-9306-2419f33d75d9)
+
 </p>
 
 
