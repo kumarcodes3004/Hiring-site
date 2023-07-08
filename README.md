@@ -12,14 +12,6 @@
 <p align="center">
 </p>
 
-<p align="center">
-  <a href="#Screenshots">Screenshots</a> •
-  <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#contributers-to-this-project">Contributors</a> •
-</p>
-
 
 ## Screenshots
 
@@ -34,6 +26,6 @@ This software uses the following open source packages:
 
 - [MongoDB](https://www.mongodb.com/)
 - [ExpressJS](https://expressjs.com/)
-
+-[ejs]
 - [Node.js](https://nodejs.org/)
 - Images are taken from <a href="https://www.freepik.com/">Freepik.</a>
