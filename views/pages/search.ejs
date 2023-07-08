@@ -1,0 +1,40 @@
+<% layout('layout/boilerplate')%>
+
+
+
+    <div class="row">
+        <h1 class="text-center">Employee Search </h1>
+        <div class="col-6 offset-3">
+            <form action="/search" method="POST" class="validated-form">
+                <div class="mb-3">
+                    <label class="form-label" for="applicant">WHICH TYPE OF EMPLOYEE YOU ARE SEARCHING FOR</label>
+                    <!-- <input class="form-control" type="text" name="applicant" id="applicant" required>
+                    label -->
+                    <!-- <label for="jobtype">SELECT THE TYPE OF ROLE </label> -->
+                    <select name="applicant" id="applicant">
+                        <option value="">--choose your role---</option>
+                        <option value="frontend">Front-End Developer</option>
+                        <option value="backend">Back-End Developer</option>
+                        <option value="react">React-Developer</option>
+                        <option value="fullstack">Full-stack Developer</option>
+                        <!-- <option value="audi">Audi</option> -->
+                    </select>
+                    <!-- <div class="valid-feedback">
+                        Looks good!
+                    </div> -->
+                    <!-- <label for=""></label> -->
+                </div>
+
+                <!-- <label for=""></label> -->
+        </div>
+
+
+
+
+        <div class="mb-3"><button class="btn btn-success">Submit</button></div>
+
+        </form>
+
+        <a href="/Home">BACK TO Home</a>
+    </div>
+    </div>

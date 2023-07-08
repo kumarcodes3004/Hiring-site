@@ -1,0 +1,34 @@
+<% layout('layout/boilerplate')%>
+
+
+    <% for(let employee of d1) {%>
+        <div class="row">
+            <div class="col-6 ">
+                <div class="card mb-3">
+
+                    <div class="card-body">
+                        <h5 class="card-title">
+                            <%=employee.name %>
+                        </h5>
+                        <p class="card-text">
+                            <%=employee.description %>
+                        </p>
+                        <%= d1.email %>
+                    </div>
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item text-muted">
+                            <%=employee.location %>
+                        </li>
+
+
+                    </ul>
+
+
+                </div>
+
+            </div>
+        </div>
+        <% } %>
+            <div class="card-footer text-muted">
+                <a href="/Home" class="btn btn-primary">BAck to Home</a>
+            </div>
